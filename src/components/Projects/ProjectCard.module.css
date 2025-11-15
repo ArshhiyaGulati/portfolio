@@ -7,11 +7,19 @@
   background: linear-gradient(180deg, #576cbc 0%, #132a53 100%);
   box-shadow: 0 16px 14px 0 #04152d;
   padding: 18px 24px;
+  /* allow the card to grow and fill the flex row height so all cards match height */
+  flex: 1 1 345px;
   max-width: 345px;
+  height: 100%;
 }
 
 .image {
   margin-bottom: 26px;
+  /* make images a fixed height and cover so cards stay visually consistent */
+  width: 100%;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 8px;
 }
 
 .title {
@@ -45,7 +53,8 @@
 
 .links {
   width: 100%;
-  margin-top: 26px;
+  /* push links to the bottom of the card so all cards' links align */
+  margin-top: auto;
   display: flex;
   justify-content: space-around;
 }
