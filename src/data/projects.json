@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Fake News Detector (Jan 2025 – Present)",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a web app to detect and flag fake news using AI, NLP, and News APIs for content credibility analysis.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://defake-fake-news-detector-website-1.onrender.com/",
+    "source": "https://github.com/ArshhiyaGulati/DeFake-fake-news-detector-website"
+  },
+  {
+    "title": "PawWalks (Oct 2024 – Dec 2024)",
+    "imageSrc": "projects/project.png",
+    "description": "Built a React Native app for pet owners to book and connect with dog walkers, featuring real-time scheduling and tracking.",
+    "skills": ["ReactNative", "REST APIs"],
+    "demo": "https://www.loom.com/share/3263d1147e544d09bad7d3710f8a65f8",
+    "source": "https://github.com/ArshhiyaGulati/PawWalks"
+  },
+  {
+    "title": "Travel Companion website (Jun 2025 – Sept 2025)",
+    "imageSrc": "projects/project.png",
+    "description": "Developed in React using Google Maps and Rapid APIs to find nearby restaurants, hotels, and attractions with location-based filtering.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://travel-companion-iota.vercel.app/",
+    "source": "https://github.com/ArshhiyaGulati/travel-companion"
+  }
+]
